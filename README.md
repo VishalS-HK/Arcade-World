@@ -2,7 +2,7 @@
 
 <p>Web Technology Mini Project</p>
 
-<p><a href = "https://pes.edu">@PES University</a></p>
+<p><a href = "https://pes.edu">@PES University ECC</a></p>
 
 <p>As the name suggests, our project is a game selection window with five games namely Tic-Tac-Toe, Rock-Paper-Scissors, Wordle, Ping-Pong, and Snake&Apple..</p>
 
